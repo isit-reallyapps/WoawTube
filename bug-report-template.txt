@@ -2,7 +2,7 @@
 The reason for having a template is so that you can have the best experience possible as fast as possible. If I can reproduce the exact 
 steps that you took when running into the bug I can experience the same error and locate the problem faster. And as a result squish them faster.
 
-#All you have to do is answer these questions (only take a minute):
+#All you have to do is answer these 5 quick questions (only takes 30 seconds):
 
 1. Did you experience this bug more than once, how many times?
 2. What link were you using?
