@@ -7,7 +7,21 @@ This is still early phases in the project where thus far functionality is limite
 As I continue to lay the foundation for the functionality that is required to turn this into a full production application
 I will continue to push updates here.
 
-In future I will:
+# USAGE Windows
+1. Download the .zip file and extract to whichever location you like
+2. There'll be 1 file (WoawTube) and 1 folder.
+3. You can copy that WoawTube file to where is more convenient for you (it's a shortcut)
+4. All your videos will download to the WoawTube Downloads folder
+
+# USAGE Linux
+1. Download the requirements.txt file and the main.py
+2. In the directire of the requirements.txt and main.py file open a terminal
+3. You'll need pip3 '''sudo apt install python3-pip'''
+4. Next run '''pip3 install requirements.txt'''
+5. From there you can make the main.py executable by right clicking on it and ticking "executable"
+6. Alternatively run as python file using '''python3 main.py'''
+
+#In future I will:
 1. Build a full GUI desktop application
 2. Port it to android using KivyMD
 3. NEVER HAVE ADS
