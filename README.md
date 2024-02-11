@@ -21,7 +21,7 @@ I will continue to push updates here.
 5. From there you can make the main.py executable by right clicking on it and ticking "executable"
 6. Alternatively run as python file using '''python3 main.py'''
 
-#In future I will:
+# In future I will:
 1. Build a full GUI desktop application
 2. Port it to android using KivyMD
 3. NEVER HAVE ADS
