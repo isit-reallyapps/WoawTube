@@ -8,7 +8,7 @@ As I continue to lay the foundation for the functionality that is required to tu
 I will continue to push updates here.
 
 # USAGE Windows
-1. Download the .zip file and extract to whichever location you like
+1. Download the WoawTube.zip file and extract to whichever location you like
 2. There'll be 1 file (WoawTube) and 1 folder.
 3. You can copy that WoawTube file to where is more convenient for you (it's a shortcut)
 4. All your videos will download to the WoawTube Downloads folder
