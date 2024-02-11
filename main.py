@@ -250,14 +250,11 @@ def WoawTube():
     elif video_or_playlist == "2" and quality == "5":
         playlist = Playlist(url)
         for video in playlist.videos:
-            # Create Youtube object and add functions for tracking progress and compeletion
-            yt = YouTube(
-            video,
-            #on_progress_callback=progress_func,
-            #on_complete_callback=complete_func,
-            )
             print(f"Downloading {video.title}\n")
-            video.streams.get_by_itag(140).download()
+            try:
+                video.streams.get_by_itag(140).download()
+            except AttributeError:
+                print("Oh no, it seems something went wrong, please report it to Rayhaan :)")
 
     else:
         print("Invalid Selection!\n\n")
