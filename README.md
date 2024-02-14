@@ -27,3 +27,9 @@ I will continue to push updates here.
 3. NEVER HAVE ADS
 
 If you'd like to follow along on my journey while I undertake this venture as a juniour programmer feel free to do so!
+
+# Bug Reports!
+For bug reports please download and complete the bug report template and send that through to me. You can reach me both on telegram or email using the below details:
+
+grahamrayhaan@gmail.com (Use "WoawApps" as the subject in your email).
+https://t.me/isit_reallyme
