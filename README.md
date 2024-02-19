@@ -29,8 +29,12 @@ I will continue to push updates here.
 If you'd like to follow along on my journey while I undertake this venture as a juniour-intermediate programmer feel free to do so!
 
 # Bug Reports!
-For bug reports please download and complete the bug report template and send that through to me. You can reach me both on telegram or email using the below details:
+For bug reports please download and complete the bug report template and send that through to me. You can reach me on [telegram](https://t.me/isit_reallyme).
 
-Email: grahamrayhaan@gmail.com (Use "WoawApps" as the subject in your email).
+# WoawApps
+WoawApps is an initiative I've undertaken to produce premium, reliable software that is commonly needed or wanted by you but is usually hidden behind a 
+pay wall or littered with ads.
 
-Telegram: https://t.me/isit_reallyme
+Our mission is to replicate (and make them better) such applications and make them available to everyone without any ads, and without any cost. Should you
+have an app in mind that is often needed/wanted by many people that is hidden behind paywalls or littered with ads feel free to reach out and request it
+by reaching out to me on [telegram](https://t.me/isit_reallyme).
